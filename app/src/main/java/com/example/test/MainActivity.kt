@@ -13,6 +13,9 @@ import com.example.test.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     //ttttttttttttteeeeeeeeeeeeeeeeesssssssssssssttttttttttttt 1
+
+
+    ///tesssssssssssssssst 2222222
     private lateinit var appBarConfiguration: AppBarConfiguration
     private lateinit var binding: ActivityMainBinding
 
